@@ -8,8 +8,8 @@ Our main interests are ML applied to physics, mathematics, economy; Quantum appl
 
 - José David Martín Guerrero: Full Professor @ Department of Electronic Engineering, University of Valencia. ETSE-UV
 - Yolanda Vives Gilabert: Assistant Professor @ Department of Electronic Engineering, University of Valencia. ETSE-UV
-- José Rafael Magdalena Benedito: Full Professor @ Department of Electronic Engineering, University of Valencia. ETSE-UV
-- Antonio José Serrano López: Full Professor @ Department of Electronic Engineering, University of Valencia. ETSE-UV
+- José Rafael Magdalena Benedito: Associate Professor @ Department of Electronic Engineering, University of Valencia. ETSE-UV
+- Antonio José Serrano López: Associate Professor @ Department of Electronic Engineering, University of Valencia. ETSE-UV
 
 
 
